@@ -39,5 +39,5 @@ This project uses code from Control Stabilization for Bi-Quadcopter Payload Deli
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/hhpamu/ACSI_dual_drone/blob/main/LICENSE) file for details.
 
