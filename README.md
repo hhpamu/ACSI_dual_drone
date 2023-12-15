@@ -10,7 +10,7 @@ Team: Hima Pamu, Srikumar Brundavanam, Pete Blumenstein, Shang Shi and Ben Spin
 ABSTRACT goes Here SRI
 
 ## Installation
-Steven can fill this out briefly. Just resources to get started, not everything. help files from Canvas are uploaded
+Steven can fill this out briefly. Just resources to get started, not everything. help files from Canvas are uploaded to <a href="https://github.com/hhpamu/ACSI_dual_drone/tree/main/Crazyflie%20Development" target="_blank">Crazyflie Development</a>
 Mention Python versions we worked with, cf client, vmware etc.
 
 ## Acknowledgements
