@@ -13,7 +13,7 @@ Our final <a href="https://github.com/hhpamu/ACSI_dual_drone/blob/main/Final%20P
 The full playlist of videos of our testing and final demo result can be found on <a href="https://www.youtube.com/playlist?list=PLhjMVMo-iKefzUKCguJFhuCKCUdmlcipk" target="_blank">YouTube</a> 
 
 ## Setup
-To get started with the Crazyflie, follow this [Get Started Guide](https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/) This guide goes through the hardware setup of the drone as well as setting up the Crazyradio and the Bitcraze Virtual Machine.
+To get started with the Crazyflie, follow this [Get Started Guide](https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/). This guide goes through the hardware setup of the drone as well as setting up the Crazyradio and the Bitcraze Virtual Machine.
 
 To flash new firmware on to the drone, follow this [Basic Guide](https://www.bitcraze.io/documentation/tutorials/getting-started-with-development/#new-fw).
 
@@ -21,7 +21,7 @@ Information on the Swarm Interface can be found [here](https://www.bitcraze.io/d
 
 To control the flight of the drone and send commands, we used the Python Crazyflie API. Instructions and examples can be found [here](https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/user-guides/python_api/).
 
-All the Python scripts in this repo were written and ran in a Python 3.9 Anaconda environment.
+All the Python scripts in this repo were written and ran in a **Python 3.9** Anaconda environment.
 
 ## Acknowledgements
 - <a href="https://www.andrew.cmu.edu/user/capn/" target="_blank">Dr. Mark Bedillion</a>
