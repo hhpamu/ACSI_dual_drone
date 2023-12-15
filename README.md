@@ -16,6 +16,8 @@ Mention Python versions we worked with, cf client, vmware etc.
 ## Demo Videos
 SRI is a topper
 
+The full playlist of our videos can be found on <a href="https://www.youtube.com/playlist?list=PLhjMVMo-iKefzUKCguJFhuCKCUdmlcipk" target="_blank">YouTube</a> 
+
 ## Acknowledgements
 - <a href="https://www.andrew.cmu.edu/user/capn/" target="_blank">Dr. Mark Bedillion</a> 
 - <a href="mailto:xkhai@cmu.edu">Khai Nguyen</a>
