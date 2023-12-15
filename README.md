@@ -38,7 +38,7 @@ If you are a student considering using this project's materials, please first re
 Consult with your instructor or professor to ensure that using these materials does not conflict with any academic integrity policies of your educational institution.
 
 ### Attribution Format:
-This project uses code from Control Stabilization for Bi-Quadcopter Payload Delivery System by Pamu H.H., Brundavanam S., Blumenstein P., Shi S., and Spin B., available at [https://github.com/hhpamu/ACSI_dual_drone].
+This project uses code from Control Stabilization for Bi-Quadcopter Payload Delivery System by Pamu H.H., Brundavanam S., Blumenstein P., Shi S., and Spin B., available at https://github.com/hhpamu/ACSI_dual_drone.
 
 
 ## License
