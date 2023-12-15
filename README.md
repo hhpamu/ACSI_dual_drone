@@ -12,9 +12,9 @@ Steven can fill this out briefly. Just resources to get started, not everything.
 Mention Python versions we worked with, cf client, vmware etc.
 
 ## Demo Videos
-SRI is a topper
 
-The full playlist of our videos can be found on <a href="https://www.youtube.com/playlist?list=PLhjMVMo-iKefzUKCguJFhuCKCUdmlcipk" target="_blank">YouTube</a> 
+
+The full playlist of videos of our testing and final demo result can be found on <a href="https://www.youtube.com/playlist?list=PLhjMVMo-iKefzUKCguJFhuCKCUdmlcipk" target="_blank">YouTube</a> 
 
 ## Acknowledgements
 - <a href="https://www.andrew.cmu.edu/user/capn/" target="_blank">Dr. Mark Bedillion</a> 
