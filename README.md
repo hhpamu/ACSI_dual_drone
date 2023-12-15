@@ -7,14 +7,14 @@ Team: Hima Pamu, Srikumar Brundavanam, Pete Blumenstein, Shang Shi and Ben Spin
 ## Overview
 With the increasing utilization and interest in unmanned aerial vehicles (UAVs) in both the private and commercial sector, steps to increase payload capacity and flight reliability present significant challenges and opportunities. This paper details the design, implementation, and testing of a novel dual drone system, interconnected via a robust truss structure, with a hanging pendulum for a centralized payload. A pendulum-based payload system is central to this design. The focus was on developing and tuning a Cascaded PID controller within Simulink to manage the system's dynamics and ensure stability with variable payloads. The controller was further fine tuned iteratively on the hardware to address the unique dynamics introduced by the flexible truss structure and swinging payload. Field tests were conducted which demonstrated the system's capacity to withstand disturbance, handle variable payload weight, and perform simple turns and maneuvers stably. Our findings indicated that the dual-drone system significantly enhances payload capacity at 43 percent, and improves stability compared to a single drone solution. Therefore, we conclude that this system has potential application in a various fields, including package delivery, remote aid, and search and rescue operations. 
 
+Our final <a href="https://github.com/hhpamu/ACSI_dual_drone/blob/main/Final%20Project%20Presentation.pdf" target="_blank">presentation</a> and <a href="https://github.com/hhpamu/ACSI_dual_drone/blob/main/Final%20Project%20Presentation.pdf" target="_blank">report</a> are available for reference. 
+
+## Demonstration Videos
+The full playlist of videos of our testing and final demo result can be found on <a href="https://www.youtube.com/playlist?list=PLhjMVMo-iKefzUKCguJFhuCKCUdmlcipk" target="_blank">YouTube</a> 
+
 ## Setup
 Steven can fill this out briefly. Just resources to get started, not everything. help files from Canvas are uploaded to <a href="https://github.com/hhpamu/ACSI_dual_drone/tree/main/Crazyflie%20Development" target="_blank">Crazyflie Development</a>
 Mention Python versions we worked with, cf client, vmware etc.
-
-## Demo Videos
-
-
-The full playlist of videos of our testing and final demo result can be found on <a href="https://www.youtube.com/playlist?list=PLhjMVMo-iKefzUKCguJFhuCKCUdmlcipk" target="_blank">YouTube</a> 
 
 ## Acknowledgements
 - <a href="https://www.andrew.cmu.edu/user/capn/" target="_blank">Dr. Mark Bedillion</a>
