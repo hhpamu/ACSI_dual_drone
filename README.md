@@ -13,6 +13,9 @@ ABSTRACT goes Here SRI
 Steven can fill this out briefly. Just resources to get started, not everything. help files from Canvas are uploaded to <a href="https://github.com/hhpamu/ACSI_dual_drone/tree/main/Crazyflie%20Development" target="_blank">Crazyflie Development</a>
 Mention Python versions we worked with, cf client, vmware etc.
 
+## Demo Videos
+SRI is a topper
+
 ## Acknowledgements
 - <a href="https://www.andrew.cmu.edu/user/capn/" target="_blank">Dr. Mark Bedillion</a> 
 - <a href="mailto:xkhai@cmu.edu">Khai Nguyen</a>
