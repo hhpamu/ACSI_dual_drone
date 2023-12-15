@@ -13,6 +13,7 @@ Our final <a href="https://github.com/hhpamu/ACSI_dual_drone/blob/main/Final%20P
 The full playlist of videos of our testing and final demo result can be found on <a href="https://www.youtube.com/playlist?list=PLhjMVMo-iKefzUKCguJFhuCKCUdmlcipk" target="_blank">YouTube</a> 
 
 ## Setup
+To get started with the Crazyflie, follow this [Get Started Guide](https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/)
 Steven can fill this out briefly. Just resources to get started, not everything. help files from Canvas are uploaded to <a href="https://github.com/hhpamu/ACSI_dual_drone/tree/main/Crazyflie%20Development" target="_blank">Crazyflie Development</a>
 Mention Python versions we worked with, cf client, vmware etc.
 
