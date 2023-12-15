@@ -21,7 +21,7 @@ The full playlist of videos of our testing and final demo result can be found on
 - <a href="https://www.andrew.cmu.edu/user/amj1/" target="_blank">Dr. Aaron Johnson</a> 
 - <a href="mailto:xkhai@cmu.edu">Khai Nguyen</a>
 
-This project would not have been possible without the support of both these individuals, and for that, the team is extremely grateful.
+This project would not have been possible without the support of these individuals, and for that, the team is extremely grateful.
 
 ## Using This Project in Your Work
 <!--
